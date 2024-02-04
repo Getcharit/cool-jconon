@@ -2,7 +2,7 @@
 <md:EntityDescriptor 
     xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"  
     xmlns:ds="http://www.w3.org/2000/09/xmldsig#"  
-    entityID="https://miauri.it"
+    entityID="https://jobs.getchar.it"
     ID="_72d7110-33f8-484d-ba7c-2529c5a2c233"> 
      
     <md:SPSSODescriptor  
@@ -20,13 +20,13 @@
                 
         <md:SingleLogoutService 
             Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST"
-            Location="http://localhost/rest/security/logout" />
+            Location="http://jobs.getchar.it/rest/security/logout" />
 
         <md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat> 
 
         <md:AssertionConsumerService  
             Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST"  
-            Location="http://localhost/spid/send-response"  
+            Location="http://jpbs.getchar.it/spid/send-response"  
             index="0"  
             isDefault="true" /> 
 
