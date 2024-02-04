@@ -55,7 +55,7 @@ services:
       - alfresco:my-alfresco
 
   jconon:
-    image: consiglionazionalericerche/cool-jconon:latest
+    image: Getcharit/cool-jconon:latest
     read_only: false
     environment:
       - JAVA_OPTS="-Xmx1g"
@@ -64,7 +64,7 @@ services:
       - REPOSITORY_BASE_URL=http://my-alfresco:8080/alfresco/
       - SPID_ENABLE=true
       - SERVER_SERVLET_CONTEXT_PATH=/
-      - SPID_ISSUER_ENTITYID=https://miauri.it
+      - SPID_ISSUER_ENTITYID=https://jobs.getchar.it
       - SPID_DESTINATION=http://localhost/spid/send-response
     volumes:
       - ./jconon_logs:/logs
@@ -89,7 +89,7 @@ services:
   nginx:
     image: nginx:1.13-alpine
     ports:
-      - 80:80
+      - 8099:8099
     environment:
       - 'FASTCGI_READ_TIMEOUT=300s'
     links:
