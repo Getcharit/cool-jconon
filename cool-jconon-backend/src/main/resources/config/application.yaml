@@ -91,8 +91,8 @@ block:
 # Outbound Email Configuration
 #------------------------------
 mail:
-  host: smtp.cnr.it
-  port: 25
+  host: smtp.getchar.it
+  port: 587
   username:
   password:
   smtp:
@@ -104,12 +104,12 @@ mail:
       enable: false
   encoding: UTF-8
   from:
-    default: jconon.test@cnr.it
-  admin: marco.spasiano@cnr.it
+    default: jobs@getchar.it
+  admin: jobs@getchar.it
   to:
     error:
-      message: marco.spasiano@cnr.it
-  helpdesk: email@inventata.com
+      message: jobs@getchar.it
+  helpdesk: jobs@getchar.it
   error:
     enabled: true
   create:
@@ -183,7 +183,7 @@ pagopa:
     password:
     dominio: Selezioni
     codicestazione: '001'
-  codicefiscale: '80054330586'
+  codicefiscale: '00991640947'
   iban: IT71Q0100576090000000123456
   descrizioneente: Consiglio Nazionale delle Ricerche - CNR
   tipopendenza: LIBERO
