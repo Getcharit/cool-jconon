@@ -120,8 +120,8 @@ spid:
   attributeConsumingServiceIndex: 0
   assertionConsumerServiceIndex: 0
   issuer:
-    entityId: https://selezionionline.cnr.it
-    name: Consiglio Nazionale delle Ricerche
+    entityId: https://jobs.getchar.it
+    name: Getchar
     destination: ${spid.issuer.entityId}
 
   attribute:
@@ -133,7 +133,7 @@ spid:
     email: email
 
   errorOnValidateSignature: true
-  destination: https://selezionionline.cnr.it/jconon/spid/send-response
+  destination: https://jobs.getchar.it/jconon/spid/send-response
   enable: false
   dateFormat: yyyy-MM-dd
   algorithm: https://www.spid.gov.it/SpidL2
