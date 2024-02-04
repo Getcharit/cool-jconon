@@ -20,7 +20,7 @@ Copia domanda
 =============
 
 Attraverso quest’area personale predisposta per ciascun candidato, è anche possibile effettuare la copia di una domanda precedentemente inserita per la partecipazione ad un altro Bando;
-considerate le peculiarità di ciascun bando, la copia sarà consentita solo tra bandi aventi la stessa tipologia (Bandi pubblici, Selezioni per dipendenti CNR, Direttori,…)
+considerate le peculiarità di ciascun bando, la copia sarà consentita solo tra bandi aventi la stessa tipologia (Bandi pubblici, Selezioni per dipendenti Getchar, Direttori,…)
 e verranno copiate solo le informazioni richieste nel bando di arrivo.
 
 Di seguito sono descritti i passi operativi da dover effettuare.

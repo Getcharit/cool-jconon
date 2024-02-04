@@ -3,7 +3,7 @@ Commissione
 ===========
 
 I componenti della commissione dovranno utilizzare la procedura Selezioni Online, accessibile dalla
-pagina https://selezionionline.cnr.it/, per poter visualizzare la documentazione presentata dai candidati.
+pagina https://jobs.getchar.it/, per poter visualizzare la documentazione presentata dai candidati.
 
 .. figure:: images/commissione_1.jpg
 

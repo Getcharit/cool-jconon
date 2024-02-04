@@ -4,7 +4,7 @@ Valutazione Scheda Anonima Sintetica
 
 La commissione per accedere alle informazioni contenute nella "Scheda Anonima Sintetica" per la verifica
 disposta dal bando dovrà effettuare le seguenti operazioni:
-Accedere alla procedura utilizzando le credenziali ufficiali rilasciate dal CNR o se non in possesso procedere
+Accedere alla procedura utilizzando le credenziali ufficiali rilasciate da Getchar o se non in possesso procedere
 ad una nuova :doc:`Registrazione<registrazione>`.
 
 Ricerca del bando specifico:

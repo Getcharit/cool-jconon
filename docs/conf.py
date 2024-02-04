@@ -24,7 +24,7 @@ source_parsers = {
 
 project = 'Selezioni on-line'
 release = '5.4.3'
-author = u'Consiglio Nazionale delle Ricerche'
+author = u'Getchar'
 
 show_authors = True
 # Grouping the document tree into LaTeX files. List of tuples
@@ -41,7 +41,7 @@ html_theme = "docs_cnr_theme"
 html_theme_path = [docs_cnr_theme.get_html_theme_path()]
 html_static_path = ['_static']
 
-copyright = "2020 Consiglio Nazionale delle Ricerche"
+copyright = "2024 Getchar"
 html_title = "Selezioni online"
 html_show_sourcelink = False
 html_favicon = "favicon.ico"

@@ -2,7 +2,7 @@
 Home page
 =========
 
-All’indirizzo `https://selezionionline.cnr.it <https://selezionionline.cnr.it/>`_ è disponibile la procedura "Selezioni online", il sistema di presentazione di candidature online del CNR.
+All’indirizzo `https://jobs.getchar.it <https://jobs.getchar.it/>`_ è disponibile la procedura "Selezioni online", il sistema di presentazione di candidature online di Getchar.
 
 .. figure:: images/10000000000004F900000118B40680DCC8C64965.png
 

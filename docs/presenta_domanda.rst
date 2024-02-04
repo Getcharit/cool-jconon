@@ -10,7 +10,7 @@ posto alla destra del bando di interesse; il menù presenta la seguente scelta:
 
 "Allegati" consente di visualizzare, ed eventualmente scaricare, tutti gli allegati del bando (il testo del bando, gli eventuali allegati e i successivi provvedimenti), "Presenta domanda" apre la pagina per la
 compilazione della domanda di partecipazione al bando prescelto.
-Nel caso di "Selezioni per dipendenti CNR" ci possono essere bandi ove è richiesta la scelta di un particolare profilo o di una determinata area/settore;
+Nel caso di "Selezioni per dipendenti Getchar" ci possono essere bandi ove è richiesta la scelta di un particolare profilo o di una determinata area/settore;
 pertanto si dovrà premere sull'opzione "Dettagli" prima di visualizzare le tipologie disponibili alla candidatura e quindi della voce "Presenta domanda"
 
 .. figure:: images/presenta_domanda_2.jpg
@@ -30,8 +30,8 @@ mentre per quelli di cittadinanza straniera sarà richiesta la Nazione della cit
 
 .. figure:: images/presenta_domanda_4.jpg
 
-Per i dipendenti CNR, alla prima apertura della domanda, vengono proposte le informazioni registrate nel
-sistema del personale SIPER; tali informazioni possono essere comunque modificate dal candidato.
+Per i dipendenti Getchar, alla prima apertura della domanda, vengono proposte le informazioni registrate nel
+sistema del personale; tali informazioni possono essere comunque modificate dal candidato.
 Nell’esempio sopra riportato si può notare che l’applicazione, al momento della validazione, evidenzia in
 rosso i campi obbligatori e la modalità è analoga su tutte le sezioni da compilare.
 
